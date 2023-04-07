@@ -1,0 +1,45 @@
+C:\Users\Hung Nguyen\Desktop\LPR-Laptrinhvb.net - Copy\bin\Debug\LPR-Laptrinhvb.net.exe.config
+C:\Users\Hung Nguyen\Desktop\LPR-Laptrinhvb.net - Copy\obj\Debug\LPR-Laptrinhvb.net.exe
+C:\Users\Hung Nguyen\Desktop\LPR-Laptrinhvb.net - Copy\obj\Debug\LPR-Laptrinhvb.net.pdb
+C:\Users\Hung Nguyen\Desktop\Final Project\bin\Debug\LPR-Laptrinhvb.net.exe.config
+C:\Users\Hung Nguyen\Desktop\Final Project\obj\Debug\LPR-Laptrinhvb.net.exe
+C:\Users\Hung Nguyen\Desktop\Final Project\obj\Debug\LPR-Laptrinhvb.net.pdb
+C:\Users\Hung Nguyen\Desktop\Final Project - Copy\bin\Debug\LPR-Laptrinhvb.net.exe.config
+C:\Users\Hung Nguyen\Desktop\Final Project - Copy\obj\Debug\LPR-Laptrinhvb.net.exe
+C:\Users\Hung Nguyen\Desktop\Final Project - Copy\obj\Debug\LPR-Laptrinhvb.net.pdb
+C:\Users\Hung Nguyen\Desktop\Final Project - Copy\bin\Debug\LPR-Laptrinhvb.net.exe
+C:\Users\Hung Nguyen\Desktop\Final Project - Copy\bin\Debug\LPR-Laptrinhvb.net.pdb
+C:\Users\Hung Nguyen\Desktop\Final Project - Copy\bin\Debug\LaptrinhVBLibs.pdb
+C:\Users\Hung Nguyen\Desktop\Final Project - Copy\bin\Debug\LaptrinhVBLibs.xml
+C:\Users\Hung Nguyen\Desktop\Final Project - Copy\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\Hung Nguyen\Desktop\Final Project - Copy\obj\Debug\FinalProject.FrmMain.resources
+C:\Users\Hung Nguyen\Desktop\Final Project - Copy\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\Hung Nguyen\Desktop\Final Project - Copy\obj\Debug\FinalProject.csproj.GenerateResource.Cache
+C:\Users\HOME\Desktop\Final Project - Copy\bin\Debug\LPR-Laptrinhvb.net.exe.config
+C:\Users\HOME\Desktop\Final Project - Copy\bin\Debug\LPR-Laptrinhvb.net.exe
+C:\Users\HOME\Desktop\Final Project - Copy\bin\Debug\LPR-Laptrinhvb.net.pdb
+C:\Users\HOME\Desktop\Final Project - Copy\bin\Debug\LaptrinhVBLibs.pdb
+C:\Users\HOME\Desktop\Final Project - Copy\bin\Debug\LaptrinhVBLibs.xml
+C:\Users\HOME\Desktop\Final Project - Copy\obj\Debug\FinalProject.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\Final Project - Copy\obj\Debug\FinalProject.FrmMain.resources
+C:\Users\HOME\Desktop\Final Project - Copy\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\HOME\Desktop\Final Project - Copy\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\HOME\Desktop\Final Project - Copy\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Final Project - Copy\obj\Debug\FinalProject.csproj.CopyComplete
+C:\Users\HOME\Desktop\Final Project - Copy\obj\Debug\LPR-Laptrinhvb.net.exe
+C:\Users\HOME\Desktop\Final Project - Copy\obj\Debug\LPR-Laptrinhvb.net.pdb
+C:\Users\HOME\Desktop\Final Project - Copy\obj\Debug\FinalProject.Form1.resources
+D:\New folder (2)\Final Project\bin\Debug\LPR-Laptrinhvb.net.exe.config
+D:\New folder (2)\Final Project\bin\Debug\LPR-Laptrinhvb.net.exe
+D:\New folder (2)\Final Project\bin\Debug\LPR-Laptrinhvb.net.pdb
+D:\New folder (2)\Final Project\bin\Debug\LaptrinhVBLibs.pdb
+D:\New folder (2)\Final Project\bin\Debug\LaptrinhVBLibs.xml
+D:\New folder (2)\Final Project\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+D:\New folder (2)\Final Project\obj\Debug\FinalProject.Form1.resources
+D:\New folder (2)\Final Project\obj\Debug\FinalProject.FrmMain.resources
+D:\New folder (2)\Final Project\obj\Debug\FinalProject.Properties.Resources.resources
+D:\New folder (2)\Final Project\obj\Debug\FinalProject.csproj.GenerateResource.cache
+D:\New folder (2)\Final Project\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+D:\New folder (2)\Final Project\obj\Debug\FinalProject.csproj.CopyComplete
+D:\New folder (2)\Final Project\obj\Debug\LPR-Laptrinhvb.net.exe
+D:\New folder (2)\Final Project\obj\Debug\LPR-Laptrinhvb.net.pdb
